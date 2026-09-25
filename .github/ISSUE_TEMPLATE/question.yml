@@ -1,0 +1,44 @@
+name: 使い方の質問
+description: 使い方が分からないことを聞く
+title: "[質問] "
+labels: ["質問"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **この Issue は誰でも読めます。** 氏名や勤務先などの個人情報、パスワードやトークンなどの認証情報は書かないでください。
+        先に[既知の制限](https://poola-vii.github.io/twotile/known_issues.html)に答えがあるかもしれません。
+
+  - type: dropdown
+    id: product
+    attributes:
+      label: 製品
+      options:
+        - TwoTile
+        - Nintimer
+        - どちらでもない（サイトや配布について）
+    validations:
+      required: true
+
+  - type: textarea
+    id: question
+    attributes:
+      label: 聞きたいこと
+    validations:
+      required: true
+
+  - type: textarea
+    id: tried
+    attributes:
+      label: 試したこと（任意）
+      description: アプリのヘルプやこのサイトで調べたことがあれば書いてください。
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: 確認
+      options:
+        - label: 書いた内容に、渡したくない情報（個人情報、認証情報、ウィンドウのタイトル）が含まれていないか確かめました
+          required: true
