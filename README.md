@@ -2,11 +2,11 @@
 
 `poola-vii` が配っている Windows ユーティリティの問い合わせ窓口です。
 
-> **準備中です。まだ配っている製品がありません。** 窓口は先に用意しています。公開前でも、お気づきの点はお知らせいただけます。（2026-09-25 時点）
+> **TwoTile を無料の公開βとして公開しています。** 気づいたことをお知らせください。
 >
 > | 製品 | 状況 |
 > |:---|:---|
-> | [TwoTile](https://poola-vii.github.io/twotile/) | 公開β（無料）の準備中 |
+> | [TwoTile](https://poola-vii.github.io/twotile/) | 公開β（無料）。[Microsoft Store](https://apps.microsoft.com/detail/9NFM07C9TNPS) とポータブル版 |
 > | Nintimer | 準備中。TwoTile の後になります |
 >
 > 公式サイト: <https://poola-vii.github.io/>
