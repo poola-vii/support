@@ -10,10 +10,10 @@
 
 | 対象 | 状況 |
 |:---|:---|
-| TwoTile（Microsoft Store 版・ポータブル版） | 公開β（無料）の準備中。まだ配っていません |
+| TwoTile（Microsoft Store 版・ポータブル版） | 公開β（無料）として配っています |
 | Nintimer | 準備中 |
-| 公式サイト <https://poola-vii.github.io/> | 公開中（準備中の表示） |
-| 配布元 <https://github.com/poola-vii/TwoTile-releases> | 公開中（Releases はまだ空です） |
+| 公式サイト <https://poola-vii.github.io/> | 公開中 |
+| 配布元 <https://github.com/poola-vii/TwoTile-releases> | 公開中（ポータブル版を Releases で配っています） |
 
 **対象になるのは、配布されている最新の版です。** ソースコードは非公開のため、公開されているのは実行できる形だけです。
 
