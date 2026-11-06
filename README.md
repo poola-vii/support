@@ -7,7 +7,7 @@
 > | 製品 | 状況 |
 > |:---|:---|
 > | [TwoTile](https://poola-vii.github.io/twotile/) | 公開β（無料）。[Microsoft Store](https://apps.microsoft.com/detail/9NFM07C9TNPS) とポータブル版 |
-> | [Nintimer](https://poola-vii.github.io/nintimer/) | 公開β（無料）。[Microsoft Store](<!-- TODO: Store のリンク -->) とポータブル版。問い合わせ先とサポート範囲は <https://poola-vii.github.io/nintimer/support.html>。**窓口はこのリポジトリだけです**（メールの窓口は TwoTile だけです） |
+> | [Nintimer](https://poola-vii.github.io/nintimer/) | 公開β（無料）。[Microsoft Store](https://apps.microsoft.com/detail/9N7LCWZ81GSC) とポータブル版。問い合わせ先とサポート範囲は <https://poola-vii.github.io/nintimer/support.html>。**窓口はこのリポジトリだけです**（メールの窓口は TwoTile だけです） |
 >
 > 公式サイト: <https://poola-vii.github.io/>
 
