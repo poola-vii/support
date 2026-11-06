@@ -2,16 +2,16 @@
 
 `poola-vii` が配っている Windows ユーティリティの問い合わせ窓口です。
 
-> **TwoTile を無料の公開βとして公開しています。** 気づいたことをお知らせください。
+> **TwoTile と Nintimer を無料の公開βとして公開しています。** 気づいたことをお知らせください。
 >
 > | 製品 | 状況 |
 > |:---|:---|
 > | [TwoTile](https://poola-vii.github.io/twotile/) | 公開β（無料）。[Microsoft Store](https://apps.microsoft.com/detail/9NFM07C9TNPS) とポータブル版 |
-> | Nintimer | 準備中。TwoTile の後になります |
+> | [Nintimer](https://poola-vii.github.io/nintimer/) | 公開β（無料）。[Microsoft Store](<!-- TODO: Store のリンク -->) とポータブル版。問い合わせ先とサポート範囲は <https://poola-vii.github.io/nintimer/support.html>。**窓口はこのリポジトリだけです**（メールの窓口は TwoTile だけです） |
 >
 > 公式サイト: <https://poola-vii.github.io/>
 
-以下は TwoTile 1.0.2（公開β）時点の内容です。
+以下は TwoTile 1.0.2（公開β）時点の内容です。Nintimer は上の表の「問い合わせ先とサポート範囲」をご覧ください。
 
 ## 問い合わせ先
 
