@@ -2,6 +2,8 @@
 
 `poola-vii` が配っている Windows ユーティリティの問い合わせ窓口です。
 
+**English**: This is the support contact for the Windows utilities made by poola-vii. You can contact us in English or Japanese. The issue forms are in Japanese, but you can write in English. See the support page for each product: [TwoTile](https://poola-vii.github.io/twotile/support.en.html) / [Nintimer](https://poola-vii.github.io/nintimer/support.en.html).
+
 > **TwoTile と Nintimer を無料の公開βとして公開しています。** 気づいたことをお知らせください。
 >
 > | 製品 | 状況 |
@@ -11,7 +13,7 @@
 >
 > 公式サイト: <https://poola-vii.github.io/>
 
-以下は TwoTile 1.0.2（公開β）時点の内容です。Nintimer は上の表の「問い合わせ先とサポート範囲」をご覧ください。
+以下は TwoTile 1.0.9（公開β）時点の内容です。Nintimer は上の表の「問い合わせ先とサポート範囲」をご覧ください。
 
 ## 問い合わせ先
 
@@ -78,4 +80,4 @@
 
 ## 言語
 
-**日本語のみ**です。英語での対応は予定していません。
+**日本語と英語で受け付けます。** 英語でのお問い合わせは、返事が日本語より遅れることがあります。
