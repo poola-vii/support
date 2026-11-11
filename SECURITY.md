@@ -11,9 +11,10 @@
 | 対象 | 状況 |
 |:---|:---|
 | TwoTile（Microsoft Store 版・ポータブル版） | 公開β（無料）として配っています |
-| Nintimer | 準備中 |
+| Nintimer（Microsoft Store 版・ポータブル版） | 公開β（無料）として配っています |
 | 公式サイト <https://poola-vii.github.io/> | 公開中 |
 | 配布元 <https://github.com/poola-vii/TwoTile-releases> | 公開中（ポータブル版を Releases で配っています） |
+| 配布元 <https://github.com/poola-vii/Nintimer-releases> | 公開中（ポータブル版を Releases で配っています） |
 
 **対象になるのは、配布されている最新の版です。** ソースコードは非公開のため、公開されているのは実行できる形だけです。
 
@@ -35,4 +36,4 @@
 ## 参考
 
 - [問い合わせ先とサポート範囲](README.md)
-- [利用条件](https://poola-vii.github.io/twotile/terms.html)
+- 利用条件（[TwoTile](https://poola-vii.github.io/twotile/terms.html) / [Nintimer](https://poola-vii.github.io/nintimer/terms.html)）
